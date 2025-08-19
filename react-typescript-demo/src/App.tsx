@@ -36,6 +36,7 @@ function App() {
       <Oscar>
         <Heading>Oscar goes to Raju Juganavar!</Heading>
       </Oscar>
+      <Greet name="Raju" isLoggedIn={true} />
     </div>
   );
 }
